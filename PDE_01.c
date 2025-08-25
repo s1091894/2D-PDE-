@@ -1,3 +1,4 @@
+//code by chatgpt
 // src/main.c
 #include <stdio.h>
 #include <stdlib.h>
